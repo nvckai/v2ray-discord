@@ -1,0 +1,7 @@
+name = "v2ray-discord"
+main = "src/worker.ts"
+compatibility_date = "2024-01-01"
+
+kv_namespaces = [
+  { binding = "settings", id = "11cbbffea919409593ee34bcb4a88625" }
+]
